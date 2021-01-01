@@ -8,6 +8,8 @@ Donation link: http://paypal.me/bibali1980
 This plugin adds a “Pricing Table” tab in the elementor panel which allows you to create pricing tables for your website in the easy way. You can quickly add features to your different plans, choose a color (as well as many other options) and display your price table anywhere. What you see is what you get, and it’s totally free.
 -Donate, Please buy me a coffee: http://paypal.me/bibali1980
 
+- Wordpress Link: https://wordpress.org/plugins/walili-pricing-table/
+
 \[Compatible with PHP 8.\]
 
 = No limitation it's for free =
